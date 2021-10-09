@@ -1,0 +1,67 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+
+.thm{
+    float: right;
+    margin-right: 300px;
+    margin-top: -285px;
+    
+}
+
+.middle-section{
+    float: right;
+    margin-right: 100px;
+    margin-top: -265px;
+}
+
+.img img{
+
+    border-radius: 50%;
+}
+
+main{
+    float: left;
+    margin-left: -60px;
+}
+
+.toggle-btn{
+    left: 105%;
+    top: 15px;
+    float: right;
+    margin-right: 10px;
+    margin-top: -275px;
+}
+
+.toggle-btn span{
+    display: block;
+    background-color: black;
+    width: 30px;
+    height: 5px;
+    margin: 3px;
+}
+
+.lst{
+    margin-top: 230px;
+    float: right;
+    margin-right: 525px;
+    color: white;
+    
+}
+
+.datetime{
+    float: right;
+    margin-right: -620px;
+    margin-top: -200px;
+}
+
+.imgt{
+    margin-top: 300px;
+}
+
+
+
+
+
